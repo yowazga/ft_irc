@@ -146,7 +146,7 @@ hexchat -> Server: localhost/6667, Password: securepassword
 + Operator privilege escalation
 
 + High-load scenarios
-## 🏆 Bonus Features
+## 🏆 Bonus
 ### Implemented Extras
 🔹 File transfer support (DCC)
 
